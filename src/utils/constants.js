@@ -24,5 +24,4 @@ export const SUPPORTED_LANGUAGES = [
 ];
 
 export const GEMINI_API_KEY = process.env.REACT_APP_GEMINI_API_KEY;
-// export const GEMINI_API_KEY = "AIzaSyC08-_HOR1xhiVDpOBXvTdPGN6WP9y6bgc";
-// OPENAI_KEY
+
