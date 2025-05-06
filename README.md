@@ -1,5 +1,8 @@
 # Project Setup - Netflix-GPT
 
+- Create React App
+- Configured TailwindCSS
+- Firebase Setup
 - Before starting the project please add .env file and add TMDB API and OPENAI KEY into it.
 
 # Features
@@ -27,9 +30,6 @@
 - React, JavaScript, Tailwind CSS, Redux
 
 # Netflix GPT Overview
-
-- Create React App
-- Configured TailwindCSS
 - Header
 - Routing of App
 - Login Form
